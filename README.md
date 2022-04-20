@@ -1,13 +1,7 @@
 # About me
 I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering.<br />
 
-## Index  <img src="https://komarev.com/ghpvc/?username=DvdDuarte"/>
-
-
-### 📖 Languages i work with:
-
-### 🛠 Tools i use:
-
+## Index  <img src="https://komarev.com/ghpvc/?username=rushmetra"/>
 
 ### My Stats:
 [![Rushmetra’s github stats](https://github-readme-stats.vercel.app/api?username=rushmetra&count_private=true&theme=radical)](https://github.com/rushmetra)
