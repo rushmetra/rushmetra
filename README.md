@@ -15,4 +15,4 @@ I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getti
 
 <a href="https://www.linkedin.com/in/rguilhermemonteiro/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rui Guilherme Monteiro | LinkedIn" width="25px"/></a>
 
-<a href="mailto:cdvdfduarte@gmail.com?Subject=[GIT] Entrar em contacto"><img align="left" src="https://user-images.githubusercontent.com/62104686/152224895-2300d1bb-f5a9-45f3-aa4e-7fdb3e29be96.png" alt="David Duarte | Gmail" width="30px"/></a>
+<a href="mailto:a93179@alunos.uminho.pt?Subject=[GIT] Entrar em contacto"><img align="left" src="https://user-images.githubusercontent.com/62104686/152224895-2300d1bb-f5a9-45f3-aa4e-7fdb3e29be96.png" alt="Rui Guilherme Monteiro" width="30px"/></a>
