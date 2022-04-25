@@ -1,6 +1,8 @@
 # About me
 I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering.<br />
 
+Interested in machine learning, distributed systems, F1 and sports in general.
+
 ## Index  <img src="https://komarev.com/ghpvc/?username=rushmetra"/>
 
 ### My Stats:
