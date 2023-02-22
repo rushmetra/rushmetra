@@ -1,7 +1,7 @@
 # About me
 Currently getting a MSc in Software Engeenring [@University of Minho](https://www.uminho.pt/PT).<br />
 
-🤖 Interested in machine learning, distributed systems, F1 and sports in general. 
+🤖 Interested in machine learning, cryptography, F1 and sports in general. 
 
 🎓 Most of my repositories are University related, you can check my favourites down below in the pinned section. 
 
