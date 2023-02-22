@@ -1,5 +1,5 @@
 # About me
-I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering.<br />
+Currently getting a MSc in Software Engeenring [@University of Minho](https://www.uminho.pt/PT).<br />
 
 🤖 Interested in machine learning, distributed systems, F1 and sports in general. 
 
