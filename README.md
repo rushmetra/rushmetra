@@ -1,5 +1,5 @@
 # About me
-Currently getting a MSc in Software Engeenring [@University of Minho](https://www.uminho.pt/PT).<br />
+Currently getting a MSc in Software Engineering [@University of Minho](https://www.uminho.pt/PT).<br />
 
 🤖 Interested in machine learning, cryptography, F1 and sports in general. 
 
