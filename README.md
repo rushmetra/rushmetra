@@ -5,7 +5,7 @@ Currently getting a MSc in Software Engineering [@University of Minho](https://w
 
 🎓 Most of my repositories are University related, you can check my favourites down below in the pinned section. 
 
-## Index  <img src="https://komarev.com/ghpvc/?username=rushmetra"/>
+ <img src="https://komarev.com/ghpvc/?username=rushmetra"/>
 
 ### My Stats:
 [![Rushmetra’s github stats](https://github-readme-stats.vercel.app/api?username=rushmetra&count_private=true&theme=radical)](https://github.com/rushmetra)
