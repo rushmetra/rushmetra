@@ -6,10 +6,6 @@ Currently getting a MSc in Software Engineering [@University of Minho](https://w
 🎓 Most of my repositories are University related, you can check my favourites down below in the pinned section. 
 
 
-### My Stats:
-[![Rushmetra’s github stats](https://github-readme-stats.vercel.app/api?username=rushmetra&count_private=true&theme=radical)](https://github.com/rushmetra)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushmetra&layout=compact&theme=radical)](https://github.com/rushmetra)
-
 
 ### 😁 Random joke of the day:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=500px/>
