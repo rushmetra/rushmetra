@@ -1,9 +1,9 @@
-# About me
+# <p align="center">About me</p>
 Currently getting a MSc in Software Engineering [@University of Minho](https://www.uminho.pt/PT).<br />
 
-🤖 Interested in machine learning, data warehousing, ETL systems, F1 and sports in general. 
+- Interested in machine learning, data warehousing, ETL systems, F1 and sports in general. 
 
-🎓 Most of my repositories are University related, you can check my favourites down below in the pinned section. 
+- Most of my repositories are University 🎓 related, you can check my favourites down below in the pinned section. 
 
 
 
