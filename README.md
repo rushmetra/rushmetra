@@ -7,7 +7,7 @@ Currently getting a MSc in Software Engineering [@University of Minho](https://w
 
 
 
-### 😁 Random joke of the day:
+### Random joke of the day:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width=500px/>
 
 ### 📫 How to reach me:
